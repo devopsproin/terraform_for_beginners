@@ -18,8 +18,8 @@ Your task is to write Terraform code that creates an EC2 instance with the follo
 
 3. **Navigate to Assignment Folder**: Move into the "Assignment-1" folder:
 
-4. **Create Your Response File**: Create a Markdown file with your name, for example: riya.md. This is where you'll write your response.
+4. **Create Your Response File**: Create a .tf file with your name, for example: riya.tf. This is where you'll write your response.
 
-5. **Write Your Response**: Open your Markdown file and write your tf file for creating an ec2 in mumbai region.
+5. **Write Your Response**: Open your terraform(.tf) file and write your terraform code for creating an ec2 in mumbai region.
 
 6. **Commit and Push**: Save your changes, then commit and push them to your repository and create a pull request.
