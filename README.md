@@ -16,7 +16,7 @@ The video tutorials are available in both Hindi and English languages on our [De
 | Current and Desired State | [Watch](https://youtu.be/vF_wB7LHjKc) | [Watch](https://youtu.be/VQlown4TIzY) |  |
 | Secure AWS Provisioning | [Watch](https://youtu.be/TEtL1Ihdsic) | [Watch](https://youtu.be/phIbQHeLBng) |  |
 | Terraform Commands | [Watch](https://youtu.be/zq_eOvy_9l0) | [Watch](https://youtu.be/rEeumwy-KO0) |  |
-| Terraform Variables | [Watch]() | [Watch]() |  |
+| Terraform Variables | [Watch]() | [Watch]() | [Variables](./Variables) |
 | ... | ... | ... | ... |
 
 
