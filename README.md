@@ -9,7 +9,7 @@ The video tutorials are available in both Hindi and English languages on our [De
 |-------------|------------------|--------------------|--------|
 | What is Terraform? | [Watch](https://youtu.be/d8z1J4-1uMc) | [Watch](https://youtu.be/XasnLh3mHgY) |  |
 | AWS Account Setup & IAM User Creation | [Watch](https://youtu.be/ZQ4t_fm9UvA) | [Watch](https://youtu.be/gt0TS5EeGww) | |
-| Create an AWS EC2 Instance | [Watch](https://youtu.be/IBvf01amJsg) | [Watch](https://youtu.be/4d9CtQ-T_rU) | [Ec2_Instance](./Ec2_Instance) |
+| Create an AWS EC2 Instance | [Watch](https://youtu.be/IBvf01amJsg) | [Watch](https://youtu.be/4d9CtQ-T_rU) | [Ec2_Instance](./EC2_Instance) |
 | Terraform Commands To Create Ec2 Instance | [Watch](https://youtu.be/XnaHAU7mTDM) | [Watch](https://youtu.be/6qtV61MugRE) |  |
 | Terraform Destroy Command | [Watch](https://youtu.be/hBkQt5lbSw0) | [Watch](https://youtu.be/tlgy6x7zX_A) |  |
 | Terraform State File | [Watch](https://youtu.be/GXFk03Qb-gU) | [Watch](https://youtu.be/2cnFwDPtrhk) |  |
