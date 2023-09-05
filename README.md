@@ -9,7 +9,14 @@ The video tutorials are available in both Hindi and English languages on our [De
 |-------------|------------------|--------------------|--------|
 | What is Terraform? | [Watch](https://youtu.be/d8z1J4-1uMc) | [Watch](https://youtu.be/XasnLh3mHgY) |  |
 | AWS Account Setup & IAM User Creation | [Watch](https://youtu.be/ZQ4t_fm9UvA) | [Watch](https://youtu.be/gt0TS5EeGww) | |
-| Create an AWS EC2 Instance | [Watch](https://youtu.be/IBvf01amJsg) | [Watch](https://youtu.be/4d9CtQ-T_rU) |  |
+| Create an AWS EC2 Instance | [Watch](https://youtu.be/IBvf01amJsg) | [Watch](https://youtu.be/4d9CtQ-T_rU) | ./Ec2_Instance |
+| Terraform Commands To Create Ec2 Instance | [Watch](https://youtu.be/XnaHAU7mTDM) | [Watch](https://youtu.be/6qtV61MugRE) |  |
+| Terraform Destroy Command | [Watch](https://youtu.be/hBkQt5lbSw0) | [Watch](https://youtu.be/tlgy6x7zX_A) |  |
+| Terraform State File | [Watch](https://youtu.be/GXFk03Qb-gU) | [Watch](https://youtu.be/2cnFwDPtrhk) |  |
+| Current and Desired State | [Watch](https://youtu.be/vF_wB7LHjKc) | [Watch](https://youtu.be/VQlown4TIzY) |  |
+| Secure AWS Provisioning | [Watch](https://youtu.be/TEtL1Ihdsic) | [Watch](https://youtu.be/phIbQHeLBng) |  |
+| Terraform Commands | [Watch](https://youtu.be/zq_eOvy_9l0) | [Watch](https://youtu.be/rEeumwy-KO0) |  |
+| Terraform Variables | [Watch]() | [Watch]() |  |
 | ... | ... | ... | ... |
 
 
