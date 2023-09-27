@@ -16,7 +16,10 @@ The video tutorials are available in both Hindi and English languages on our [De
 | Current and Desired State | [Watch](https://youtu.be/vF_wB7LHjKc) | [Watch](https://youtu.be/VQlown4TIzY) |  |
 | Secure AWS Provisioning | [Watch](https://youtu.be/TEtL1Ihdsic) | [Watch](https://youtu.be/phIbQHeLBng) |  |
 | Terraform Commands | [Watch](https://youtu.be/zq_eOvy_9l0) | [Watch](https://youtu.be/rEeumwy-KO0) |  |
-| Terraform Variables | [Watch](https://youtu.be/S6zOAflfUJc) | [Watch](https://youtu.be/bGk_yyZ7N8U) | [Variables](./Variables) |
+| Terraform Variables | [Watch](https://youtu.be/S6zOAflfUJc) | [Watch](https://youtu.be/bGk_yyZ7N8U) | [Variables](./Variables/Part-1/) |
+| Data Types in Terraform | [Watch](https://youtu.be/Cm9pTqzImXc) | [Watch](https://youtu.be/8GLjuHOTNEE) | [Data-Types](./Variables/Part-2_Data-Types/) |
+| Count and Count Index | [Watch](https://youtu.be/62t5oKQOfNA) | [Watch](https://youtu.be/fTZcWc-3mJ0) | [Count Parameter](./Count%20Parameter/) |
+| Conditional Expression | [Watch](https://youtu.be/y27jjcrQAHE) | [Watch](https://youtu.be/Hc33O0xtLu0) | [Conditional expression](./Conditional%20expression/) |
 | ... | ... | ... | ... |
 
 
