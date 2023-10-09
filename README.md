@@ -20,8 +20,9 @@ The video tutorials are available in both Hindi and English languages on our [De
 | Data Types in Terraform | [Watch](https://youtu.be/Cm9pTqzImXc) | [Watch](https://youtu.be/8GLjuHOTNEE) | [Data-Types](./Variables/Part-2_Data-Types/) |
 | Count and Count Index | [Watch](https://youtu.be/62t5oKQOfNA) | [Watch](https://youtu.be/fTZcWc-3mJ0) | [Count Parameter](./Count%20Parameter/) |
 | Conditional Expression | [Watch](https://youtu.be/y27jjcrQAHE) | [Watch](https://youtu.be/Hc33O0xtLu0) | [Conditional expression](./Conditional%20expression/) |
+| Local Values | [Watch](https://youtu.be/ldK_98oPjMc) | [Watch](https://youtu.be/wc8TlbUYqaA) | [Local Values](./Local%20Values/) |
+| Data Source | [Watch](https://youtu.be/_NU3jIwvPGs) | [Watch](https://youtu.be/ix-TyIOpdR8) | [Data Source](./Data%20Source/) |
 | ... | ... | ... | ... |
-
 
 Feel free to explore the repository, watch the videos, and follow along with the practical examples provided in each folder. If you have any questions, suggestions, or feedback, don't hesitate to reach out. Happy learning!
 
